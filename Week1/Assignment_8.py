@@ -13,3 +13,9 @@ input: 17 100
 output: 12
 """
 
+
+x = 1
+
+
+y = 2
+print(x*y)
