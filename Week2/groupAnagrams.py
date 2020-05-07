@@ -1,5 +1,7 @@
 strs = ["eat", "tea", "tan", "ate", "nat", "bat"]
 
+strs = ["eat","tea","tan","ate","nat","bat"]
+
 
 def string_combinations(item):
     temp = []
