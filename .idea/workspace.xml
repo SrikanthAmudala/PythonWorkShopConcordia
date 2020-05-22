@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b7054f-34f4-4438-9f8e-0bfec870a2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/recursiveExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MayChallenge/FirstBadVersion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MayChallenge/Jewels_Stones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MayChallenge/RansomNote.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/algorithms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algorithms.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithms/algorithms_inclass.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/algorithms_inclass.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,57 +28,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/maximumSubarray_n_square.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/moveZeros.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/play.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/sum_number_without_list.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week3/stringShifts.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week3/productArrayExceptSelf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week3/stringShifts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/recursiveExample.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MayChallenge/FirstBadVersion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MayChallenge/RansomNote.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week3/majorityElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MayChallenge/Jewels_Stones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -148,14 +150,17 @@
         <option value="$PROJECT_DIR$/Week2/groupAnagrams_v1.py" />
         <option value="$PROJECT_DIR$/Week3/productArrayExceptSelf.py" />
         <option value="$PROJECT_DIR$/algorithms/recursiveExample.py" />
+        <option value="$PROJECT_DIR$/Week3/Jewels_Stones.py" />
+        <option value="$PROJECT_DIR$/Week3/FirstBadVersion.py" />
+        <option value="$PROJECT_DIR$/MayChallenge/RansomNote.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="-1001" />
-    <option name="width" value="1128" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-350" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,7 +179,7 @@
             <path>
               <item name="PythonWorkShopConcordia" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonWorkShopConcordia" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="MayChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonWorkShopConcordia" type="b2602c69:ProjectViewProjectNode" />
@@ -194,13 +199,14 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/algorithms" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inclass" />
       <recent name="$PROJECT_DIR$/Week1_solutions" />
       <recent name="$PROJECT_DIR$/Week1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MayChallenge" />
+      <recent name="$PROJECT_DIR$/algorithms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -396,7 +402,14 @@
       <workItem from="1588671327436" duration="200000" />
       <workItem from="1588742270335" duration="435000" />
       <workItem from="1588826219333" duration="548000" />
-      <workItem from="1589062615898" duration="1093000" />
+      <workItem from="1589062615898" duration="1243000" />
+      <workItem from="1589158122619" duration="696000" />
+      <workItem from="1589518300344" duration="412000" />
+      <workItem from="1589781212855" duration="160000" />
+      <workItem from="1589850585898" duration="554000" />
+      <workItem from="1590015757717" duration="709000" />
+      <workItem from="1590085298604" duration="1007000" />
+      <workItem from="1590126979650" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Assignments for Week1">
       <created>1585683931178</created>
@@ -475,31 +488,38 @@
       <option name="project" value="LOCAL" />
       <updated>1588846182828</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Recursion">
+      <created>1589066044308</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589066044308</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47245000" />
+    <option name="totallyTimeSpent" value="50942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="-1001" width="1128" height="900" extended-state="0" />
+    <frame x="-350" y="-1080" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20810314" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.32409638" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49631676" visible="true" weight="0.4269802" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4949833" weight="0.94520545" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50368327" side_tool="true" visible="true" weight="0.4269802" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.10010649" side_tool="true" visible="true" weight="0.37722772" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840257" weight="0.55445546" />
-      <window_info anchor="bottom" x="649" y="433" width="142" height="33" id="Python Console" order="12" sideWeight="0.9027182" type="WINDOWED" weight="0.686747" />
+      <window_info active="true" anchor="bottom" x="0" y="45" width="1440" height="806" id="Python Console" maximized="true" order="12" sideWeight="0.8998935" visible="true" weight="0.37722772" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -521,7 +541,8 @@
     <MESSAGE value="Session 5" />
     <MESSAGE value="Algorithms and practice assignments" />
     <MESSAGE value="Algorithms practice problems with solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithms practice problems with solutions" />
+    <MESSAGE value="Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,8 +781,54 @@
     <entry file="file://$PROJECT_DIR$/Week2/sum_number_without_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week3/productArrayExceptSelf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week3/stringShifts.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/recursiveExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayChallenge/FirstBadVersion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayChallenge/RansomNote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week3/majorityElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayChallenge/Jewels_Stones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/groupAnagrams.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -777,20 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week3/productArrayExceptSelf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/recursiveExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
