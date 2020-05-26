@@ -1,0 +1,40 @@
+{
+  "user_table": {
+    "negar": {
+      "books_reg": {
+        "COMPUTER SCIENCE": [
+          "Python",
+          "Python"
+        ],
+        "CIISE": []
+      },
+      "password": "negar"
+    },
+    "rohit": {
+      "books_reg": {
+        "COMPUTER SCIENCE": [],
+        "CIISE": []
+      },
+      "password": "rohit"
+    },
+    "sunny": {
+      "books_reg": {
+        "COMPUTER SCIENCE": [],
+        "CIISE": []
+      },
+      "password": "sunny1234"
+    }
+  },
+  "books_list": {
+    "COMPUTER SCIENCE": {
+      "Python": 0,
+      "C": 1,
+      "java": 1
+    },
+    "CIISE": {
+      "Project Management": 1,
+      "DataMining": 1,
+      "Quality Systems": 1
+    }
+  }
+}

@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'GPS_GET_DATA',
+    'GPS_GET_DATA', # INSTALLED APPS, ADD ANY NEW APP YOU HAVE CREATED HEAR
     'rest_framework',
     'corsheaders',
 ]

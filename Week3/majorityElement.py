@@ -13,15 +13,20 @@ Input: [2,2,1,1,1,2,2]
 Output: 2
 """
 
-def majorityElement(nums: List[int]) -> int:
-    majLen = len(nums)//2
+
+def majorityElementFunction(nums):
+
+    majLen = len(nums) // 2
     majorityHash = {}
-    
+
     for i in nums:
-        if majorityHash.get(i)==None:
+        if majorityHash.get(i) == None:
             majorityHash[i] = 1
         else:
-            majorityHash[i]+= 1
+            majorityHash[i] += 1
         if majorityHash[i] > majLen:
             return i
-        
+
+
+def insideMajorityElement():
+    return "In side majorityElement"
