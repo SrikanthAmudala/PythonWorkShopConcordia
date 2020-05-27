@@ -1,14 +1,15 @@
 import json
 
-db_path = r"/Users/Srikanth/PycharmProjects/PythonWorkShopConcordia/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/db.json"
-
-with open(db_path, encoding='utf-8') as f:
-    db = json.load(f)
-
-print("before update: \n", db)
 
 
 def reg_book(username, password, book_catg, check_book):
+    db_path = r"/Users/Srikanth/PycharmProjects/PythonWorkShopConcordia/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/db.json"
+
+    with open(db_path, encoding='utf-8') as f:
+        db = json.load(f)
+
+    print("before update: \n", db)
+
     # username = "negar"
     # password = "negar"
     # check_book = "Python"

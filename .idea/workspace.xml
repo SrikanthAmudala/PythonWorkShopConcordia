@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b7054f-34f4-4438-9f8e-0bfec870a2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/sample_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/saving_db_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled Folder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_DJANGO_SERVICE/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_DJANGO_SERVICE/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_DJANGO_SERVICE/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_DJANGO_SERVICE/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/sample_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/sample_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/saving_db_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/algorithms/saving_db_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/db/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/GPS_GET_DATA/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/GPS_DJANGO_SERVICE-master/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/majorityElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/majorityElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/productArrayExceptSelf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/productArrayExceptSelf.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week3/majorityElement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="89">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -171,9 +162,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -416,6 +408,7 @@
       <workItem from="1590182367254" duration="5821000" />
       <workItem from="1590522330319" duration="1213000" />
       <workItem from="1590526385406" duration="1797000" />
+      <workItem from="1590609427817" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="Assignments for Week1">
       <created>1585683931178</created>
@@ -505,13 +498,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59773000" />
+    <option name="totallyTimeSpent" value="60353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18669528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -524,9 +517,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1037196" side_tool="true" visible="true" weight="0.56506026" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.10443491" side_tool="true" visible="true" weight="0.5638587" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4978701" weight="0.41188118" />
-      <window_info active="true" anchor="bottom" x="0" y="45" width="1440" height="806" id="Python Console" maximized="true" order="12" sideWeight="0.8962804" visible="true" weight="0.56506026" />
+      <window_info active="true" anchor="bottom" x="0" y="45" width="1440" height="806" id="Python Console" maximized="true" order="12" sideWeight="0.8955651" visible="true" weight="0.5638587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -874,8 +867,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week3/majorityElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="89">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>

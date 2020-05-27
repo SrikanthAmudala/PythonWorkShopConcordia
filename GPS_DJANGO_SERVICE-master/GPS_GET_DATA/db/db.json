@@ -1,40 +1,42 @@
 {
+  "books_list": {
+    "CIISE": {
+      "Project Management": 1,
+      "DataMining": 0,
+      "Quality Systems": 1
+    },
+    "COMPUTER SCIENCE": {
+      "C": 1,
+      "Python": 0,
+      "java": 1
+    }
+  },
   "user_table": {
-    "negar": {
+    "sunny": {
+      "password": "sunny1234",
       "books_reg": {
+        "CIISE": [
+          "DataMining"
+        ],
+        "COMPUTER SCIENCE": []
+      }
+    },
+    "negar": {
+      "password": "negar",
+      "books_reg": {
+        "CIISE": [],
         "COMPUTER SCIENCE": [
           "Python",
           "Python"
-        ],
-        "CIISE": []
-      },
-      "password": "negar"
+        ]
+      }
     },
     "rohit": {
+      "password": "rohit",
       "books_reg": {
-        "COMPUTER SCIENCE": [],
-        "CIISE": []
-      },
-      "password": "rohit"
-    },
-    "sunny": {
-      "books_reg": {
-        "COMPUTER SCIENCE": [],
-        "CIISE": []
-      },
-      "password": "sunny1234"
-    }
-  },
-  "books_list": {
-    "COMPUTER SCIENCE": {
-      "Python": 0,
-      "C": 1,
-      "java": 1
-    },
-    "CIISE": {
-      "Project Management": 1,
-      "DataMining": 1,
-      "Quality Systems": 1
+        "CIISE": [],
+        "COMPUTER SCIENCE": []
+      }
     }
   }
 }
